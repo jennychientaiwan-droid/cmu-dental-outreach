@@ -1,0 +1,27 @@
+name: Sync public GAS data
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download public-only JSON feed
+        env:
+          GAS_FEED_URL: ${{ vars.GAS_FEED_URL }}
+        run: |
+          test -n "$GAS_FEED_URL" || { echo 'Set GAS_FEED_URL repository variable'; exit 1; }
+          python3 sync_feed.py
+      - name: Commit snapshot when changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/public.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update published outreach activities'
+            git push
+          fi
