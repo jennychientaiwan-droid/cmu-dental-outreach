@@ -15,5 +15,6 @@ if not isinstance(data,dict) or not isinstance(data.get('events'),list) or not i
 for x in data['events']:
     if not isinstance(x,dict) or not x.get('id') or not x.get('title'):raise SystemExit('Invalid event; snapshot unchanged')
 p=Path(__file__).parent/'data'/'public.json'
+p.parent.mkdir(parents=True,exist_ok=True)
 p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('Validated',len(data['events']),'published events')
