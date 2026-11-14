@@ -9,12 +9,19 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4      
       - name: Download public-only JSON feed
         env:
           GAS_FEED_URL: ${{ vars.GAS_FEED_URL }}
         run: |
-          test -n "$GAS_FEED_URL" || { echo 'Set GAS_FEED_URL repository variable'; exit 1; }
+          python3 - <<'PY'
+          import os
+          url = os.environ.get("GAS_FEED_URL", "")
+          print("Variable received:", bool(url))
+          print("Starts with GAS domain:", url.startswith("https://script.google.com/macros/s/"))
+          print("Contains public_feed=1:", "public_feed=1" in url)
+          print("Length:", len(url))
+          PY
           python3 sync_feed.py
       - name: Commit snapshot when changed
         run: |
