@@ -1,0 +1,38 @@
+{
+  "siteSettings": {
+    "heroFileId": "",
+    "aboutFileId": "",
+    "logoFileId": "",
+    "heroUrl": "",
+    "aboutUrl": "",
+    "logoUrl": ""
+  },
+  "events": [
+    {
+      "id": "c25f687a-bb50-402d-acc5-ebb20538e582",
+      "year": 2026,
+      "date": "2026-11-29",
+      "title": "尖石鄉義診",
+      "county": "",
+      "location": "",
+      "audience": "長者、幼童",
+      "treatments": "尖石鄉義診 沈瑞文醫師",
+      "doctors": "沈瑞文醫師",
+      "organizers": "",
+      "sponsors": "",
+      "serviceCount": 0,
+      "description": "尖石鄉義診 沈瑞文醫師",
+      "coverUrl": "",
+      "gallery": []
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "people": 0,
+    "partners": 0
+  },
+  "places": [],
+  "years": [
+    "2026"
+  ]
+}
