@@ -78,3 +78,5 @@ paths=['/']+[urlpath(x['id']) for x in events]
 xml='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'<url><loc>{e(SITE+p)}</loc><lastmod>{now}</lastmod></url>\n' for p in paths)+'</urlset>\n'
 (OUT/'sitemap.xml').write_text(xml,encoding='utf-8')
 print('Generated',len(paths),'pages at',OUT)
+# Generate an alternative plain-text sitemap.
+(OUT/'sitemap.txt').write_text('\n'.join(SITE+p for p in paths)+'\n',encoding='utf-8')
