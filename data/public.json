@@ -24,15 +24,35 @@
       "description": "尖石鄉義診 沈瑞文醫師",
       "coverUrl": "",
       "gallery": []
+    },
+    {
+      "id": "43278caa-7106-4b3f-8637-c7c758be3573",
+      "year": 115,
+      "date": "0115-07-18",
+      "title": "滿洲鄉義診",
+      "county": "屏東縣",
+      "location": "滿洲鄉",
+      "audience": "偏鄉居民",
+      "treatments": "口腔檢查 補牙 洗牙 活動假牙",
+      "doctors": "沈瑞文醫師 林奕辰醫師 王品涵醫師 熊哲緯醫師",
+      "organizers": "中國醫藥大學牙醫學系校友會醫療團 \n中國醫藥大學牙醫學系口腔服務隊",
+      "sponsors": "",
+      "serviceCount": 50,
+      "description": "",
+      "coverUrl": "",
+      "gallery": []
     }
   ],
   "stats": {
-    "events": 1,
-    "people": 0,
+    "events": 2,
+    "people": 50,
     "partners": 0
   },
-  "places": [],
+  "places": [
+    "屏東縣"
+  ],
   "years": [
-    "2026"
+    "2026",
+    "115"
   ]
 }
