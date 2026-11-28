@@ -9,21 +9,252 @@
   },
   "events": [
     {
+      "id": "40e057ce-75f7-4008-ac4e-fd99c2d06b73",
+      "year": 2027,
+      "date": "2027-07-15",
+      "title": "蘭嶼義診",
+      "county": "蘭嶼",
+      "location": "蘭嶼",
+      "audience": "偏鄉居民、長者、兒童",
+      "treatments": "口腔檢查、活動假牙、洗牙、口腔衛教",
+      "doctors": "",
+      "organizers": "中國醫藥大學牙醫學系校友會醫療團\n中國醫藥大學牙醫學系口腔衛生服務隊",
+      "sponsors": "",
+      "serviceCount": 0,
+      "description": "🦷 蘭嶼牙科義診｜跨過一片海，把牙科照護帶到島上\n\n2027 年預計7月15-22日\n中國醫藥大學牙醫系校友會醫療團預計前往蘭嶼，與在地夥伴一起籌辦牙科義診，讓居民在島上就近接受口腔檢查、諮詢與衛教。\n\n從孩子換牙時的清潔，到長輩日常的假牙照護，我們希望有機會坐下來，聽聽大家平常遇到的困擾，一起找到回家就能用上的照顧方法。若有需要後續追蹤的口腔問題，也會向居民說明接下來可以怎麼安排。\n\n期待和醫師、志工夥伴一起搭船出發，在蘭嶼與大家見面。🌊\n\n📍 活動日期與地點將於確認後公佈",
+      "coverUrl": "https://drive.google.com/thumbnail?id=18C_JVyZIKgEeRV2hoUeF3xY1cJWOodvD&sz=w1600",
+      "gallery": [],
+      "relatedLinks": []
+    },
+    {
+      "id": "a36344d0-0e5d-4e6b-b154-cb69686da2d4",
+      "year": 2027,
+      "date": "2027-01-29",
+      "title": "阿里山義診",
+      "county": "嘉義縣",
+      "location": "阿里山鄉",
+      "audience": "偏鄉居民、長者、兒童",
+      "treatments": "口腔檢查、活動假牙、洗牙、口腔衛教",
+      "doctors": "",
+      "organizers": "中國醫藥大學牙醫學系校友會醫療團\n中國醫藥大學牙醫學系口腔衛生服務隊",
+      "sponsors": "",
+      "serviceCount": 0,
+      "description": "🦷 阿里山牙科義診｜走進山裡，把牙科照護帶到部落\n\n2027 年 1 月 29 日至 31 日，中國醫藥大學牙醫系校友會醫療團將前往阿里山，在特富野文健站、達邦老人食堂與樂野村活動中心舉辦牙科義診。\n\n這三天，牙醫師和志工夥伴會走進部落，讓居民在熟悉的地方就近接受口腔檢查與諮詢。無論是牙齒不舒服、假牙戴起來不合，或想了解平常怎麼清潔牙齒，都可以到現場聊聊。醫師也會依照每個人的狀況，說明回家可以怎麼照顧，以及哪些問題需要再追蹤。\n\n謝謝在地夥伴一起籌備，也謝謝願意走一趟山路的醫師與志工。期待在特富野、達邦與樂野，和大家見面。🌿",
+      "coverUrl": "https://drive.google.com/thumbnail?id=1vBLvv1qYPOFbNjo_VFsEOxTdhdHW5cEu&sz=w1600",
+      "gallery": [],
+      "relatedLinks": []
+    },
+    {
       "id": "c25f687a-bb50-402d-acc5-ebb20538e582",
       "year": 2026,
       "date": "2026-11-29",
       "title": "尖石鄉義診",
-      "county": "",
-      "location": "",
-      "audience": "長者、幼童",
-      "treatments": "尖石鄉義診 沈瑞文醫師",
-      "doctors": "沈瑞文醫師",
-      "organizers": "",
-      "sponsors": "",
+      "county": "新竹縣",
+      "location": "尖石鄉義診",
+      "audience": "偏鄉居民、長者、兒童",
+      "treatments": "口腔檢查、活動假牙、洗牙、口腔衛教",
+      "doctors": "沈瑞文醫師、鄭英鑫醫師、黃仲民醫師、鄭繼祥醫師、葉晉碩醫師、尤建富醫師、余岱容醫師、林逸豪醫師",
+      "organizers": "中國醫藥大學牙醫學系校友會醫療團\n中國醫藥大學牙醫學系口腔衛生服務隊",
+      "sponsors": "綺美牙醫診所、森源牙醫診所、聯合牙醫診所、中國醫藥學院附設醫院、碧礽牙醫診所、貝瑞牙醫診所",
       "serviceCount": 0,
-      "description": "尖石鄉義診 沈瑞文醫師",
-      "coverUrl": "",
+      "description": "哈囉，醫師您好😊\n\n🦷 微笑出任務！\n想邀請您在 11/29（日），和我們一起到 尖石鄉參加義診 🌿\n\n無論是第一次體驗，或是想重溫義診的感動，都很期待您的加入！一起走進山裡，用專業傳遞溫暖，也留下美好的回憶 🤍",
+      "coverUrl": "https://drive.google.com/thumbnail?id=1Mu31PbFdX02XGIUUAfo_k9cFtIZthw1v&sz=w1600",
       "gallery": [],
+      "relatedLinks": []
+    },
+    {
+      "id": "e6ab1c8b-7225-4cdf-a365-23f606268a28",
+      "year": 2026,
+      "date": "2026-07-18",
+      "title": "滿州義診",
+      "county": "屏東縣",
+      "location": "滿州鄉",
+      "audience": "偏鄉居民、長者、兒童",
+      "treatments": "口腔檢查、活動假牙、洗牙、口腔衛教",
+      "doctors": "元島道信醫師、三島健史醫師、Toshiyuki Takahara醫師、鄭鴻麟醫師、鄭英鑫醫師、沈瑞文醫師、鄭繼祥醫師、林奕辰醫師、熊哲緯醫師、王品涵醫師、李易勳醫師、許哲瑋醫師、林敬茂醫師、徐偉欽醫師、連聖豪醫師、鄭博文醫師、李亮儀醫師、鄒宜軒醫師、呂羽雯醫師、徐顥醫師、陳奕蓁醫師、張祐華醫師、謝昂儒醫師、陳登志醫師、張森豪醫師、黃信諺醫師、黃佑聖醫師、何復文醫師、楊凱任醫師、謝安群醫師、邱翊展醫師、施瑋庭醫師、徐英為醫師、陳登偉醫師、石佳弘醫師",
+      "organizers": "中國醫藥大學牙醫學系校友會醫療團\n中國醫藥大學牙醫學系口腔衛生服務隊",
+      "sponsors": "",
+      "serviceCount": 60,
+      "description": "2026年7月18日~21日\n🦷 滿洲鄉牙科義診｜走進村落，照顧在地的微笑\n\n中國醫藥大學牙醫系校友會醫療團來到屏東縣滿洲鄉，在長樂村與響林村舉辦牙科義診，讓居民在熟悉的村落裡，也能就近接受口腔檢查、諮詢與衛教。\n\n義診現場，牙醫師與志工夥伴一起陪居民了解自己的口腔狀況，聊聊平常刷牙容易漏掉的地方，也說明哪些牙齒問題需要後續追蹤。希望每位來到現場的居民，都能帶著一個回家就用得上的照護方法，讓照顧牙齒成為日常裡做得到的小事。\n\n謝謝每一位投入義診的醫師、志工，以及協助籌備的在地夥伴，讓我們有機會走進長樂與響林，和居民面對面聊聊牙齒，也一起照顧這裡的笑容。💛",
+      "coverUrl": "https://drive.google.com/thumbnail?id=1Zyq5rJwR-2VxN8whzUHznstL-ct0D8-g&sz=w1600",
+      "gallery": [
+        {
+          "id": "1PLNVkLweQRHRtx4TnRblIAiRME4OOHJZ",
+          "url": "https://drive.google.com/thumbnail?id=1PLNVkLweQRHRtx4TnRblIAiRME4OOHJZ&sz=w1600"
+        },
+        {
+          "id": "1R9lscB09ag_08JzV-to1ouOG0HezWmS5",
+          "url": "https://drive.google.com/thumbnail?id=1R9lscB09ag_08JzV-to1ouOG0HezWmS5&sz=w1600"
+        },
+        {
+          "id": "1TDc_YfcuSG_12X_r0QyJV5voyyBBv1br",
+          "url": "https://drive.google.com/thumbnail?id=1TDc_YfcuSG_12X_r0QyJV5voyyBBv1br&sz=w1600"
+        },
+        {
+          "id": "13Too6vUuA_RbP62GpsOVeApH7IJcMJUb",
+          "url": "https://drive.google.com/thumbnail?id=13Too6vUuA_RbP62GpsOVeApH7IJcMJUb&sz=w1600"
+        },
+        {
+          "id": "1SLmQYCLxioq1JWounI1JuwcXWwfxW99u",
+          "url": "https://drive.google.com/thumbnail?id=1SLmQYCLxioq1JWounI1JuwcXWwfxW99u&sz=w1600"
+        },
+        {
+          "id": "1ObtPuwwZV_DMtkkKqSBc1Rw2lSEsdCdd",
+          "url": "https://drive.google.com/thumbnail?id=1ObtPuwwZV_DMtkkKqSBc1Rw2lSEsdCdd&sz=w1600"
+        },
+        {
+          "id": "1UGTdkvuKb6RdxcVs7An59thvP1otke_a",
+          "url": "https://drive.google.com/thumbnail?id=1UGTdkvuKb6RdxcVs7An59thvP1otke_a&sz=w1600"
+        },
+        {
+          "id": "1Zyq5rJwR-2VxN8whzUHznstL-ct0D8-g",
+          "url": "https://drive.google.com/thumbnail?id=1Zyq5rJwR-2VxN8whzUHznstL-ct0D8-g&sz=w1600"
+        },
+        {
+          "id": "1VHA2l_nvhtSylytbHJYq5oft7ZCFTnOT",
+          "url": "https://drive.google.com/thumbnail?id=1VHA2l_nvhtSylytbHJYq5oft7ZCFTnOT&sz=w1600"
+        },
+        {
+          "id": "1cob8xRXH4CgNscQa4MlVgeRxtEvyi5oi",
+          "url": "https://drive.google.com/thumbnail?id=1cob8xRXH4CgNscQa4MlVgeRxtEvyi5oi&sz=w1600"
+        },
+        {
+          "id": "1gh_qGdWl2gEp3Z3EyuTAL2x8MFadPklD",
+          "url": "https://drive.google.com/thumbnail?id=1gh_qGdWl2gEp3Z3EyuTAL2x8MFadPklD&sz=w1600"
+        },
+        {
+          "id": "1EU-aEnQ4uKTA7vOdfjFwbhGlks-01tfx",
+          "url": "https://drive.google.com/thumbnail?id=1EU-aEnQ4uKTA7vOdfjFwbhGlks-01tfx&sz=w1600"
+        },
+        {
+          "id": "18SGSqNdy3vKMeodSFMcBQc4sA69iOzlA",
+          "url": "https://drive.google.com/thumbnail?id=18SGSqNdy3vKMeodSFMcBQc4sA69iOzlA&sz=w1600"
+        },
+        {
+          "id": "1Aj-qO2t9dyWSdy6eV5sFOc1ABK5H-NFL",
+          "url": "https://drive.google.com/thumbnail?id=1Aj-qO2t9dyWSdy6eV5sFOc1ABK5H-NFL&sz=w1600"
+        },
+        {
+          "id": "1gKUcvcQpcJEXdMctuxtFdCDWpTOa1UHD",
+          "url": "https://drive.google.com/thumbnail?id=1gKUcvcQpcJEXdMctuxtFdCDWpTOa1UHD&sz=w1600"
+        },
+        {
+          "id": "1I7vnBU_yFVIoIH8_WZ1uvgBJ40sacxKM",
+          "url": "https://drive.google.com/thumbnail?id=1I7vnBU_yFVIoIH8_WZ1uvgBJ40sacxKM&sz=w1600"
+        },
+        {
+          "id": "1hflD52AWxbgw4okKMkZvHDpILp4iPGJB",
+          "url": "https://drive.google.com/thumbnail?id=1hflD52AWxbgw4okKMkZvHDpILp4iPGJB&sz=w1600"
+        },
+        {
+          "id": "13BQlKt3mBHo55a81RUu5cR9xXh6lI3ui",
+          "url": "https://drive.google.com/thumbnail?id=13BQlKt3mBHo55a81RUu5cR9xXh6lI3ui&sz=w1600"
+        },
+        {
+          "id": "16B3PyzZko9g6V3Oxr0o8KTnOqZahYf0V",
+          "url": "https://drive.google.com/thumbnail?id=16B3PyzZko9g6V3Oxr0o8KTnOqZahYf0V&sz=w1600"
+        },
+        {
+          "id": "1AO72bxrQE4JVWxocyz69hub7AXKewenK",
+          "url": "https://drive.google.com/thumbnail?id=1AO72bxrQE4JVWxocyz69hub7AXKewenK&sz=w1600"
+        },
+        {
+          "id": "1GImd7L2NRBUvgaUfc-Ka44tyLXsSj9Jg",
+          "url": "https://drive.google.com/thumbnail?id=1GImd7L2NRBUvgaUfc-Ka44tyLXsSj9Jg&sz=w1600"
+        },
+        {
+          "id": "1ol-ZBOd_cB9WVqqaK3IVD-4UrncdlJ7M",
+          "url": "https://drive.google.com/thumbnail?id=1ol-ZBOd_cB9WVqqaK3IVD-4UrncdlJ7M&sz=w1600"
+        },
+        {
+          "id": "1RWo8MzcINuelekfAC39PeALQH30e6_ah",
+          "url": "https://drive.google.com/thumbnail?id=1RWo8MzcINuelekfAC39PeALQH30e6_ah&sz=w1600"
+        },
+        {
+          "id": "1x4h9VaVEU1hUrVSnOWkxvBupLWrPvnQz",
+          "url": "https://drive.google.com/thumbnail?id=1x4h9VaVEU1hUrVSnOWkxvBupLWrPvnQz&sz=w1600"
+        },
+        {
+          "id": "1txb2AIlh5pcbIEVZuZKHL6Fl3Kdr2D2-",
+          "url": "https://drive.google.com/thumbnail?id=1txb2AIlh5pcbIEVZuZKHL6Fl3Kdr2D2-&sz=w1600"
+        },
+        {
+          "id": "13o8FiU-J163CGj3fG4xQ9tIgFRh9SPzA",
+          "url": "https://drive.google.com/thumbnail?id=13o8FiU-J163CGj3fG4xQ9tIgFRh9SPzA&sz=w1600"
+        },
+        {
+          "id": "1IGR6O_D6BM9JYB3F9TwEDtfAlcnjd4Qg",
+          "url": "https://drive.google.com/thumbnail?id=1IGR6O_D6BM9JYB3F9TwEDtfAlcnjd4Qg&sz=w1600"
+        },
+        {
+          "id": "1EFTX3G4GSl9akvCXfeaLbQaPgwEhCB8A",
+          "url": "https://drive.google.com/thumbnail?id=1EFTX3G4GSl9akvCXfeaLbQaPgwEhCB8A&sz=w1600"
+        },
+        {
+          "id": "1W91wuxNbmV4ziIj5L-w4bpJqIdNUR36f",
+          "url": "https://drive.google.com/thumbnail?id=1W91wuxNbmV4ziIj5L-w4bpJqIdNUR36f&sz=w1600"
+        },
+        {
+          "id": "1tuJUK5K5qYolB_iI5PXSAICf2rLz9fHS",
+          "url": "https://drive.google.com/thumbnail?id=1tuJUK5K5qYolB_iI5PXSAICf2rLz9fHS&sz=w1600"
+        },
+        {
+          "id": "1DOc0ahDHgBbkVy03dAwnBlmUr5QMVVIK",
+          "url": "https://drive.google.com/thumbnail?id=1DOc0ahDHgBbkVy03dAwnBlmUr5QMVVIK&sz=w1600"
+        },
+        {
+          "id": "1UInaXFnC1l3CWbJhIy5MCVq-88clGVK4",
+          "url": "https://drive.google.com/thumbnail?id=1UInaXFnC1l3CWbJhIy5MCVq-88clGVK4&sz=w1600"
+        },
+        {
+          "id": "1fu5udMCCzAVnTValtmmFmIvRQRCQUG9G",
+          "url": "https://drive.google.com/thumbnail?id=1fu5udMCCzAVnTValtmmFmIvRQRCQUG9G&sz=w1600"
+        },
+        {
+          "id": "1es08NJdfP14pG7JtFWp7qdZUHqeR5MyT",
+          "url": "https://drive.google.com/thumbnail?id=1es08NJdfP14pG7JtFWp7qdZUHqeR5MyT&sz=w1600"
+        },
+        {
+          "id": "1SMMN4xcvvdrOFFeoQRkj2zu3jlxzMHiN",
+          "url": "https://drive.google.com/thumbnail?id=1SMMN4xcvvdrOFFeoQRkj2zu3jlxzMHiN&sz=w1600"
+        },
+        {
+          "id": "1Kcu2ZEb9wxNkkljfAPNlGnNyIuJIog4U",
+          "url": "https://drive.google.com/thumbnail?id=1Kcu2ZEb9wxNkkljfAPNlGnNyIuJIog4U&sz=w1600"
+        },
+        {
+          "id": "1jnQyXj2YrTHWXhUoITE3UZejF85nLN52",
+          "url": "https://drive.google.com/thumbnail?id=1jnQyXj2YrTHWXhUoITE3UZejF85nLN52&sz=w1600"
+        },
+        {
+          "id": "1ZMtKzKbceN5DZYEwA1uDOtyxvuTIJT_P",
+          "url": "https://drive.google.com/thumbnail?id=1ZMtKzKbceN5DZYEwA1uDOtyxvuTIJT_P&sz=w1600"
+        },
+        {
+          "id": "175IPut1wpbpPtOVTUWIVI4NEe8l3oAc3",
+          "url": "https://drive.google.com/thumbnail?id=175IPut1wpbpPtOVTUWIVI4NEe8l3oAc3&sz=w1600"
+        },
+        {
+          "id": "1bUHxaCklhbrQrIX83knjwNVtWDlwbvUB",
+          "url": "https://drive.google.com/thumbnail?id=1bUHxaCklhbrQrIX83knjwNVtWDlwbvUB&sz=w1600"
+        },
+        {
+          "id": "1AERskBD1-GMwyZm_4V0HSKIBb7Q0SwRs",
+          "url": "https://drive.google.com/thumbnail?id=1AERskBD1-GMwyZm_4V0HSKIBb7Q0SwRs&sz=w1600"
+        },
+        {
+          "id": "1CUaZd4EY3C2XCOI93_1zsAsMhJFdVFjw",
+          "url": "https://drive.google.com/thumbnail?id=1CUaZd4EY3C2XCOI93_1zsAsMhJFdVFjw&sz=w1600"
+        },
+        {
+          "id": "1xPE2oS0TyicNTWE4pCTa8oNJ-McKZq8F",
+          "url": "https://drive.google.com/thumbnail?id=1xPE2oS0TyicNTWE4pCTa8oNJ-McKZq8F&sz=w1600"
+        },
+        {
+          "id": "1625h07iyDNHXQfwWqmm6dkVJ-_QDiAsn",
+          "url": "https://drive.google.com/thumbnail?id=1625h07iyDNHXQfwWqmm6dkVJ-_QDiAsn&sz=w1600"
+        }
+      ],
       "relatedLinks": []
     },
     {
@@ -33,13 +264,13 @@
       "title": "阿里山義診",
       "county": "嘉義縣",
       "location": "嘉義縣",
-      "audience": "偏鄉居民、長者",
-      "treatments": "口腔檢查、活動假牙",
+      "audience": "偏鄉居民、長者、兒童",
+      "treatments": "口腔檢查、活動假牙、洗牙、口腔衛教",
       "doctors": "鄭鴻麟醫師、鄭英鑫醫師、沈瑞文醫師、陳欽章醫師、鄒宜軒醫師、石佳弘醫師、鄭繼祥醫師、王加珣醫師、蕭薏珈醫師、黃彰晢醫師、黃佑聖醫師、趙亞總醫師、許哲瑋醫師、連聖豪醫師、許文隆醫師",
       "organizers": "中國醫藥大學牙醫學系校友會醫療團\n中國醫藥大學牙醫學系口腔衛生服務隊",
       "sponsors": "聯合牙醫診所、綺美牙醫診所、貝瑞牙醫、榛品牙醫診所、鼎真牙醫診所、明仁堂牙醫診所、佳鋭牙醫診所、曼哈頓美學牙醫診所、芳德牙醫診所、迪生牙醫診所、成美牙醫診所、榮和牙醫診所",
       "serviceCount": 30,
-      "description": "協助長者維護假牙、口腔檢查、活動假牙",
+      "description": "🌿 2026 阿里山牙科義診｜在部落，聊聊牙齒的大小事\n\n牙齒有點不舒服，卻不知道要不要看牙醫？假牙戴久了不太合，吃飯總得挑一邊咬？這些日常的小困擾，都是我們想在義診現場好好聽的事。\n\n2026 年，中國醫藥大學牙醫系校友會醫療團來到阿里山，走進部落提供口腔檢查與衛教。醫師和志工夥伴陪居民聊聊平常遇到的口腔問題，一起看看哪些地方可以從日常清潔做起，哪些狀況值得再安排看診。\n\n謝謝在地夥伴協助張羅，也謝謝每一位願意坐下來和我們聊聊的居民。希望這趟阿里山義診，能讓大家回到家後，更知道怎麼照顧自己的牙齒，也知道有問題時可以從哪裡開始。💛",
       "coverUrl": "https://drive.google.com/thumbnail?id=1KAbFmTYnCbpFExAOBU0IkKbBmwI1kzEK&sz=w1600",
       "gallery": [
         {
@@ -143,51 +374,22 @@
           "url": "https://drive.google.com/thumbnail?id=1aq6L23xcVbSFz6SNuksghJFMC93_PhN6&sz=w1600"
         }
       ],
-      "relatedLinks": [
-        {
-          "url": "https://www.facebook.com/profile.php?id=61597047238374",
-          "title": "FB粉絲團",
-          "description": "",
-          "imageUrl": ""
-        },
-        {
-          "url": "https://www.instagram.com/cmud_2008/",
-          "title": "IG",
-          "description": "",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "43278caa-7106-4b3f-8637-c7c758be3573",
-      "year": 115,
-      "date": "0115-07-18",
-      "title": "滿洲鄉義診",
-      "county": "屏東縣",
-      "location": "滿洲鄉",
-      "audience": "偏鄉居民",
-      "treatments": "口腔檢查 補牙 洗牙 活動假牙",
-      "doctors": "沈瑞文醫師 林奕辰醫師 王品涵醫師 熊哲緯醫師",
-      "organizers": "中國醫藥大學牙醫學系校友會醫療團 \n中國醫藥大學牙醫學系口腔服務隊",
-      "sponsors": "",
-      "serviceCount": 50,
-      "description": "",
-      "coverUrl": "",
-      "gallery": [],
       "relatedLinks": []
     }
   ],
   "stats": {
-    "events": 3,
-    "people": 80,
-    "partners": 12
+    "events": 5,
+    "people": 90,
+    "partners": 16
   },
   "places": [
     "嘉義縣",
-    "屏東縣"
+    "屏東縣",
+    "新竹縣",
+    "蘭嶼"
   ],
   "years": [
-    "2026",
-    "115"
+    "2027",
+    "2026"
   ]
 }
